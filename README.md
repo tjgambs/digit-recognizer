@@ -4,6 +4,8 @@
 
 This workbook requires [Python 3.6](https://www.python.org/downloads/release/python-367/) to run.
 
+Navigate to the digit-recognizer folder after downloading.
+
 Create and activate a virtual environment for our dependencies.
 
 ```sh
